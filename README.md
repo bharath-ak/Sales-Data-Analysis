@@ -1,4 +1,4 @@
-# 📊 Electro Hub Power BI Dashboard
+# 📊 Electro Hub Dashboard
 
 This repository contains a Power BI dashboard designed for **Electro Hub**, a retail business selling products like electronics, footwear, clothing, kitchenware, and more.
 
